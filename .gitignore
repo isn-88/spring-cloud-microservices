@@ -1,6 +1,7 @@
 .gradle
 .idea
 build
+notification-service/src/main/resources/main-props.properties
 
 account-service/build
 account-service/.gradle
